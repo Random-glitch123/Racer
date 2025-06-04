@@ -1,0 +1,103 @@
+{
+    "name": "Beginner Circuit",
+    "type": "custom",
+    "blocks": [
+        
+        {
+            "type": "straight",
+            "position": [
+                0,
+                1
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                2
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "right90",
+            "position": [
+                0,
+                3
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                1,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "straight",
+            "position": [
+                2,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "right90",
+            "position": [
+                3,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "straight",
+            "position": [
+                3,
+                2
+            ],
+            "rotation": 180
+        },
+        {
+            "type": "straight",
+            "position": [
+                3,
+                1
+            ],
+            "rotation": 180
+        },
+        {
+            "type": "right90",
+            "position": [
+                3,
+                0
+            ],
+            "rotation": 180
+        },
+        {
+            "type": "straight",
+            "position": [
+                2,
+                0
+            ],
+            "rotation": 270
+        },
+        {
+            "type": "straight",
+            "position": [
+                1,
+                0
+            ],
+            "rotation": 270
+        },
+        {
+            "type": "left90",
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 270
+        }
+    ]
+}

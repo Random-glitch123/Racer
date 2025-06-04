@@ -1,0 +1,118 @@
+{
+    "name": "Bridge test",
+    "type": "custom",
+    "blocks": [
+        {
+            "type": "start",
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                1
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                2
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "right_90",
+            "position": [
+                0,
+                3
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                1,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "straight",
+            "position": [
+                2,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "left_90",
+            "position": [
+                3,
+                3
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "straight",
+            "position": [
+                3,
+                4
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                3,
+                5
+            ]
+        },
+        {
+            "type": "right_90",
+            "position": [
+                3,
+                6
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                4,
+                6
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                5,
+                6
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                6,
+                6
+            ]
+        },
+        {
+            "type": "bridge",
+            "position": [
+                7,
+                6
+            ]
+        },
+        {
+            "type": "finish",
+            "position": [
+                8,
+                6
+            ]
+        }
+    ]
+}
