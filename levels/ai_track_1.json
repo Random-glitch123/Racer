@@ -1,0 +1,62 @@
+{
+    "name": "ai track 1",
+    "type": "custom",
+    "blocks": [
+        {
+            "type": "start",
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                2
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "left_90",
+            "position": [
+                0,
+                4
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                2,
+                9
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "right_45",
+            "position": [
+                4,
+                11
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "straight",
+            "position": [
+                6,
+                12
+            ],
+            "rotation": 180
+        },
+        {
+            "type": "finish",
+            "position": [
+                6,
+                10
+            ],
+            "rotation": 180
+        }
+    ]
+}

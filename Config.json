@@ -1,0 +1,18 @@
+{
+  "car": {
+    "position": [0, 5, 0],
+    "speed": 0.2,
+    "drift_factor": 0.7,
+    "drift_speed_threshold": 19.4444,
+    "acceleration": 0.02,
+    "braking": 0.03,
+    "max_speed": 69.4444
+  },
+  "keybinds": {
+    "move_forward": ["K_UP", "K_w"],
+    "move_backward": ["K_DOWN", "K_s"],
+    "turn_left": ["K_LEFT", "K_a"],
+    "turn_right": ["K_RIGHT", "K_d"],
+    "change_camera": "K_c"
+  }
+}

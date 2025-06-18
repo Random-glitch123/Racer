@@ -1,0 +1,54 @@
+{
+    "name": "ai track 3",
+    "type": "custom",
+    "blocks": [
+        {
+            "type": "start",
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                2
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "bridge",
+            "position": [
+                0,
+                4
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "left_45",
+            "position": [
+                0,
+                6
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                2,
+                7
+            ],
+            "rotation": 90
+        },
+        {
+            "type": "finish",
+            "position": [
+                2,
+                9
+            ],
+            "rotation": 90
+        }
+    ]
+}

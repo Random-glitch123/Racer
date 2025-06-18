@@ -1,0 +1,42 @@
+{
+    "name": "Straight",
+    "type": "custom",
+    "blocks": [
+        {
+            "type": "start",
+            "position": [
+                0,
+                0
+            ],
+            "rotation": 0
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                2
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                3
+            ]
+        },
+        {
+            "type": "straight",
+            "position": [
+                0,
+                4
+            ]
+        },
+        {
+            "type": "finish",
+            "position": [
+                0,
+                5
+            ]
+        }
+    ]
+}
